@@ -1,6 +1,5 @@
-## Hi there 👋
+Muhammad Al-Hakimi Haikal 👋
 
-Your Name
 🚀 Aspiring Computer Scientist | 📍 Skudai, Johor | 🔍 Open to Opportunities
 
 💼 About Me
