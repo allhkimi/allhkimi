@@ -20,6 +20,6 @@ Hello! I'm a passionate Computer Science student eager to learn about about codi
   -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023)
   
 🔗 Connect with Me
-  -GitHub: GitHub Username
-  -LinkedIn: LinkedIn Profile
-  -Email: your.email@example.com
+  -GitHub: allhkimi
+  -LinkedIn: Al Hakimi
+  -Email: alhakimihaikal4106@gmail.com
