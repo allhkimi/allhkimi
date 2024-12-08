@@ -3,13 +3,13 @@
 
 - 🎓 Education **-Bachelor of Computer Science (Data Engineering) -Universiti Teknologi Malaysia -Expected Graduation: 2028**
 
-- 🌱 I’m currently learning **HTML,CSS and JavaSript**
+- 🌱 I’m currently learning **-HTML,CSS and JavaSript**
 
-- 📫 How to reach me **alhakimihaikal4106@gmail.com**
+- 📫 How to reach me **-alhakimihaikal4106@gmail.com**
 
-- 📄 Know about my experiences **Intern, Assistant Data Analyst -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023)**
+- 📄 Know about my experiences **-Intern, Assistant Data Analyst -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023)**
 
-- ⚡ Fun fact **I'm good at Guitar**
+- ⚡ Fun fact **-I'm good at Guitar**
 
 <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
 
@@ -26,8 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allhkimi&show_icons=true&locale=en" alt="allhkimi" /></p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/allhkimi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=allhkimi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+
