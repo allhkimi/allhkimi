@@ -8,7 +8,7 @@ Hello! I'm a passionate Computer Science student eager to learn about about codi
 🎓 **Education**
   -Bachelor of Computer Science (Data Engineering)
   -Universiti Teknologi Malaysia
-  -Expected Graduation: 2027/2028
+  -Expected Graduation: 2028
   
 🌟 **Skills**
   -Languages: Python, Java, C++, SQL
