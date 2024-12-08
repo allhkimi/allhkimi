@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Hakimi</h1>
-<h3 align="center">💼 About Me Hello! I'm a passionate Computer Science student eager to learn about about coding, technology, and problem-solving. Currently a first-year undergraduate, I'm exploring new ways to develop my technical skills and contribute to impactful projects. I'm especially interested in areas like software development, data science, and AI.</h3>
+<h3 align="center">💼 Hello! I'm a passionate Computer Science student eager to learn about about coding, technology, and problem-solving. Currently a first-year undergraduate, I'm exploring new ways to develop my technical skills and contribute to impactful projects. I'm especially interested in areas like software development, data science, and AI.</h3>
 
 - 🎓 Education **-Bachelor of Computer Science (Data Engineering) -Universiti Teknologi Malaysia -Expected Graduation: 2028**
 
