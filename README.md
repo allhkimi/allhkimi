@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alhakimihaikal4106@gmail.com**
 
-- 📄 Know about my experiences [Intern, Assistant Data Analyst -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023)](Intern, Assistant Data Analyst -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023))
+- 📄 Know about my experiences **Intern, Assistant Data Analyst -Zeta Integrated Solution Sdn Bhd (22 March 2023 - 27 June 2023)**
 
 - ⚡ Fun fact **I'm good at Guitar**
 
