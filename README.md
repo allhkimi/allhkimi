@@ -45,7 +45,7 @@
 <h4 align="left">My GitHub Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allhkimi&show_icons=true&locale=en&layout=compact" alt="allhkimi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allhkimi&show_icons=true&locale=en" alt="allhkimi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=allhkimi&show_icons=true&locale=en" alt="allhkimi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allhkimi&" alt="allhkimi" /></p>
 
