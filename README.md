@@ -2,7 +2,7 @@
 
 <h3 align="center">💼 Hello! I'm a passionate Computer Science student eager to learn about about coding, technology, and problem-solving. Currently a second-year undergraduate, I'm exploring new ways to develop my technical skills and contribute to impactful projects. I'm especially interested in areas like software development, database, and AI.</h3>
 
-- 🎓 Education **-Bachelor of Computer Science (Data Engineering) -Universiti Teknologi Malaysia -Expected Graduation: 2028**
+- 🎓 Education **-Bachelor of Computer Science (Data Engineering) -Universiti Teknologi Malaysia -Expected Graduation: 2029**
 
 - 🌱 I’m currently learning **-HTML,CSS and JavaSript**
 
