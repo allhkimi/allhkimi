@@ -4,7 +4,7 @@
 
 - 🎓 Education **-Bachelor of Computer Science (Data Engineering) -Universiti Teknologi Malaysia -Expected Graduation: 2029**
 
-- 🌱 I’m currently learning **-HTML,CSS and JavaSript**
+- 🌱 I’m currently learning **-HTML,CSS and Java**
 
 - 📫 How to reach me **-alhakimihaikal4106@gmail.com**
 
