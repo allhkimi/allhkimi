@@ -14,7 +14,6 @@
 
 - 📄 Me and My Project **-[E-Portfolio](https://allhkimi.github.io)**
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
 
 
 <h3 align="left">Connect with me:</h3>
